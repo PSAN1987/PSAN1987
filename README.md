@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PSAN1987
 - 👀 I’m interested in Raspberry Pi4
-- 🌱 I’m currently learning peripheral device control using Raspberry Pi4
+- 🌱 I’m currently learning a peripheral device control using Raspberry Pi4
 - 💞️ I’m looking to collaborate on Raspberry Pi4
 - 📫 How to reach me 
 
